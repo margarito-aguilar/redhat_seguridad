@@ -4,6 +4,3 @@
   
   roles:
     - ansible-role-rhel8-ospp-master
-    
-  roles:
-    - ansible-role-rhel8-pci-dss-master
