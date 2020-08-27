@@ -1,0 +1,6 @@
+- name: Nombre
+  hosts: all
+  become: yes
+  
+  roles:
+    - ansible-role-a-llamar
