@@ -1,2 +1,2 @@
-- src:  https://github.com/RedHatOfficial/ansible-role-rhel8-pci-dss
-- src:  https://github.com/RedHatOfficial/ansible-role-rhel8-ospp
+#- src:  https://github.com/RedHatOfficial/ansible-role-rhel8-pci-dss
+#- src:  https://github.com/RedHatOfficial/ansible-role-rhel8-ospp
