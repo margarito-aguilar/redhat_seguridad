@@ -2,4 +2,4 @@
 - hosts: localhost
   remote_user: root
   roles:
-    - ansible-role-rhel8-ospp
+    - ansible-role-rhel8-ospp-master
